@@ -1,0 +1,191 @@
+[
+  {
+    "id": 1,
+    "name": "Teclado Mecánico para Juegos",
+    "description": "Teclado mecánico con iluminación RGB y teclas personalizables para juegos de PC.",
+    "price": 99.99,
+    "image": "https://dcdn.mitiendanube.com/stores/001/231/930/products/04120856_01tecladoxk10001-b2ebd68ad78eab43f816599660965915-640-0.jpg",
+    "stock": 20,
+    "category": "Accesorios"
+  },
+  {
+    "id": 2,
+    "name": "Mouse para Juegos",
+    "description": "Mouse para juegos de alta precisión con ajuste DPI personalizable.",
+    "price": 49.99,
+    "image": "https://m.media-amazon.com/images/I/61ZiDnosRnL._AC_UL400_.jpg",
+    "stock": 30,
+    "category": "Accesorios"
+  },
+  {
+    "id": 3,
+    "name": "Carcasa de PC con RGB",
+    "description": "Carcasa de PC con iluminación RGB personalizable para una configuración de juego elegante.",
+    "price": 79.99,
+    "image": "https://m.media-amazon.com/images/I/51onlgQ9w8L._AC_.jpg",
+    "stock": 15,
+    "category": "Accesorios"
+  },
+  {
+    "id": 4,
+    "name": "Audífonos para Juegos de PC",
+    "description": "Audífonos para juegos envolventes con sonido envolvente y cancelación de ruido.",
+    "price": 79.99,
+    "image": "https://m.media-amazon.com/images/I/61aMN9Af+lL._AC_UF894,1000_QL80_.jpg",
+    "stock": 25,
+    "category": "Accesorios"
+  },
+  {
+    "id": 5,
+    "name": "PC para Juegos",
+    "description": "PC para juegos de alto rendimiento con componentes de primera para una experiencia de juego fluida.",
+    "price": 1499.99,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_622860-MLA76081377055_042024-O.webp",
+    "stock": 7,
+    "category": "PC"
+  },
+  {
+    "id": 6,
+    "name": "Control Inalámbrico para Xbox elite",
+    "description": "Control inalámbrico para Xbox Series X con agarre texturizado y cruceta híbrida.",
+    "price": 59.99,
+    "image": "https://assets.xboxservices.com/assets/55/cc/55cc1545-b583-4f03-b8f0-1bd8de838932.jpg?n=2878711_Image-1084_Family_1920x720.jpg",
+    "stock": 12,
+    "category": "Accesorios"
+  },
+  {
+    "id": 7,
+    "name": "Paquete de Baterías Recargables para Xbox Series X",
+    "description": "Paquete de baterías recargables para controladores de Xbox Series X.",
+    "price": 24.99,
+    "image": "https://http2.mlstatic.com/D_784621-MLA69190450019_052023-C.jpg",
+    "stock": 15,
+    "category": "Accesorios"
+  },
+  {
+    "id": 8,
+    "name": "Consola Xbox Series X",
+    "description": "Potente consola de juegos de Microsoft con 12 teraflops de potencia de procesamiento gráfico.",
+    "price": 549.99,
+    "image": "https://i5.walmartimages.com/seo/Xbox-Series-X-Video-Game-Console-Black_9f8c06f5-7953-426d-9b68-ab914839cef4.5f15be430800ce4d7c3bb5694d4ab798.jpeg",
+    "stock": 8,
+    "category": "Consolas"
+  },
+  {
+    "id": 9,
+    "name": "Halo Infinite",
+    "description": "Juego de disparos en primera persona para Xbox Series X protagonizado por el Jefe Maestro.",
+    "price": 59.99,
+    "image": "https://media.vandal.net/m/61910/halo-infinite-202112712305036_1.jpg",
+    "stock": 15,
+    "category": "Juegos"
+  },
+  {
+    "id": 10,
+    "name": "Forza Horizon 5",
+    "description": "Juego de carreras de mundo abierto para Xbox Series X ambientado en México.",
+    "price": 49.99,
+    "image": "https://ps4digitalargentina.com/files/images/productos/1658270695-forza-horizon-5-xbox-series-xs-0.jpg",
+    "stock": 18,
+    "category": "Juegos"
+  },
+  {
+    "id": 11,
+    "name": "Control Inalámbrico DualSense",
+    "description": "Control inalámbrico para PlayStation 5 con retroalimentación háptica y gatillos adaptativos.",
+    "price": 69.99,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_841057-MLA45672054410_042021-O.webp",
+    "stock": 15,
+    "category": "Accesorios"
+  },
+  {
+    "id": 12,
+    "name": "Consola PlayStation 5",
+    "description": "Consola de juegos de próxima generación de Sony con SSD ultrarrápido y compatibilidad con juegos 4K.",
+    "price": 499.99,
+    "image": "https://crecos.vtexassets.com/arquivos/ids/240815/Consola-Play-Station-5-Sony-Slim-1.jpg?v=638419066432730000",
+    "stock": 5,
+    "category": "Consolas"
+  },
+  {
+    "id": 13,
+    "name": "Demon's Souls",
+    "description": "Juego de rol de acción para PlayStation 5 conocido por su jugabilidad desafiante.",
+    "price": 69.99,
+    "image": "https://media.vandal.net/m/86448/demons-souls-remake-20209173315239_1.jpg",
+    "stock": 12,
+    "category": "Juegos"
+  },
+  {
+    "id": 14,
+    "name": "Spider-Man: Miles Morales",
+    "description": "Juego de aventuras de acción para PlayStation 5 con Miles Morales como Spider-Man.",
+    "price": 49.99,
+    "image": "https://http2.mlstatic.com/D_736145-MLA50145467465_052022-C.jpg",
+    "stock": 20,
+    "category": "Juegos"
+  },
+  {
+    "id": 15,
+    "name": "Control Pro para Nintendo Switch Smash Bro",
+    "description": "Control Pro para Nintendo Switch con controles de movimiento y vibración HD.",
+    "price": 69.99,
+    "image": "https://d22fxaf9t8d39k.cloudfront.net/0385772705edcfae9234ec3c70e085e3b72b8adba7f1266132087e63d1e6a60b28549.jpg",
+    "stock": 10,
+    "category": "Accesorios"
+  },
+  {
+    "id": 16,
+    "name": "Consola Nintendo Switch",
+    "description": "Consola de juegos híbrida de Nintendo con modos portátil y de sobremesa.",
+    "price": 299.99,
+    "image": "https://nextgames.com.ar/img/Public/1040-producto-71vwxeabq7l-sl1500-4403.jpg",
+    "stock": 10,
+    "category": "Consolas"
+  },
+  {
+    "id": 17,
+    "name": "Animal Crossing: New Horizons",
+    "description": "Juego de simulación de vida para Nintendo Switch ambientado en una isla desierta.",
+    "price": 49.99,
+    "image": "https://juegosdigitalesargentina.com/files/images/productos/1637887885-animal-crossing-new-horizons.jpg",
+    "stock": 25,
+    "category": "Juegos"
+  },
+  {
+    "id": 18,
+    "name": "The Legend of Zelda: Breath of the Wild",
+    "description": "Juego de aventuras de acción",
+    "price": 49.99,
+    "image": "https://m.media-amazon.com/images/I/716IChJgUzS._AC_UF1000,1000_QL80_.jpg",
+    "stock": 25,
+    "category": "Juegos"
+  },
+  {
+    "id": 19,
+    "name": "Xbox Game Pass Ultimate",
+    "description": "Accede a más de 100 juegos de alta calidad en consola, PC y dispositivos móviles.",
+    "price": 14.99,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_675456-MLU72830320185_112023-O.webp",
+    "stock": 100,
+    "category": "Subcripciones"
+  },
+  {
+    "id": 20,
+    "name": "PlayStation Plus",
+    "description": "Suscripción que te da acceso a juegos online, juegos gratuitos cada mes y descuentos exclusivos.",
+    "price": 9.99,
+    "image": "data:image/png;base64,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",
+    "stock": 100,
+    "category": "Subcripciones"
+  },
+  {
+    "id": 21,
+    "name": "Microsoft 365 Personal",
+    "description": "Incluye aplicaciones de Office premium, almacenamiento en la nube adicional y seguridad avanzada.",
+    "price": 69.99,
+    "image": "https://m.arrichetta.com.ar/wp-content/uploads/2020/03/Microsoft-OFFICE-365-PERSONAL-1.jpg",
+    "stock": 100,
+    "category": "Subcripciones"
+  }
+]
